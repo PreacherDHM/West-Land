@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49480fff35719114bafd983b360b84be, type: 3}
+  m_Name: AR-Stock
+  m_EditorClassIdentifier: 
+  name: AR Meadeam Stock
+  icon: {fileID: -2969477965649259345, guid: 53cb7ce7ffa7b8f4ebe5b02c294b5a3f, type: 3}
+  weight: 0.5
+  rarity: 1
+  Tags:
+  - AR-Part
+  - Stock
+  stock: 2
